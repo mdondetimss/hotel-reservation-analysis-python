@@ -1,13 +1,14 @@
-# Hotel reservation cancellations data analysis project -Python
+# Hotel Reservation Cancellations Data Analysis Project - Python
+
 ## _Data Analysis Project Steps_
 
-- create a problem statement.
-- Identify the data you want to analyze.
-- Explore and Clean up the data.
-- Present the data interms of reports or dashboards visulization.
+1. **Develop a problem statement.**
+2. **Identify the data to be analyzed.**
+3. **Explore and clean the data.**
+4. **Present the findings through reports or visualizations (e.g., dashboards).**
 
 ## _Business Problem_
-In  recent years  City Hotel and Resort hotel seen higher cancellation rates, now dealing with number of issues which impacting their revenue, Now revenue is lower than hotel room usage  the primary  goal  is to lower the cancellation rates in both hotel inorder to increate the revenue
-We need to offer thorough business advice to solve the problem
 
-The analysis of hotel booking and cancelltion  and other factors  , yearly revenue generation are the main topics of the report
+In recent years, City Hotel and Resort Hotel have faced rising cancellation rates, which are negatively impacting their revenue. Currently, their revenue is insufficient compared to hotel room usage. The main goal is to reduce cancellation rates at both hotels to increase revenue. 
+
+This analysis will focus on booking and cancellation patterns and other contributing factors, with the aim of providing actionable business advice. The report will cover key aspects such as yearly revenue generation and cancellation trends.
