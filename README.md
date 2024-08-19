@@ -1,4 +1,4 @@
-# Hotel reservation cancellations data analysis project -Pyhon
+# Hotel reservation cancellations data analysis project -Python
 ## _Data Analysis Project Steps_
 
 - create a problem statement.
